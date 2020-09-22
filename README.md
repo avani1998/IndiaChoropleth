@@ -20,3 +20,5 @@ Create choropleth maps of India using Geopandas
 <p align="center">
   <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/unemploymentrate.PNG?raw=true" width="530" height="420"/>
 </p>
+
+### Acknowledgements
