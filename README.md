@@ -22,3 +22,4 @@ Create choropleth maps of India using Geopandas
 </p>
 
 ### Acknowledgements
+[geohacker](https://github.com/geohacker/india/blob/master/state/india_state.geojson) - Geojson data was taken from here
