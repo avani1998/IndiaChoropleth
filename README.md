@@ -1,2 +1,2 @@
 # IndiaChoropleth
-Create choropleth maps of India 
+Create choropleth maps of India using Geopandas
